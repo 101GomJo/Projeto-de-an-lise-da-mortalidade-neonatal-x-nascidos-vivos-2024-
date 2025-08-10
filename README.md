@@ -1,9 +1,10 @@
 **Análise da mortalidade neonatal X nascidos vivos de 2024**  
 **Projeto em fase inicial**  
 
-**fonte de dados:**
+**fonte de dados:**  
 SINASC_2024.csv  
 Disponível em: https://dados.gov.br/dados/conjuntos-dados/sistema-de-informacao-sobre-nascidos-vivos-sinasc-1996-a-20201
+   
 DO24OPEN.csv   
 Disponível em: https://dados.gov.br/dados/conjuntos-dados/sim-1979-2019  
 
