@@ -1,9 +1,15 @@
 **Análise da mortalidade neonatal X nascidos vivos de 2024**  
 **Projeto em fase inicial**  
 
+**fonte de dados:**
+SINASC_2024.csv  
+Disponível em: https://dados.gov.br/dados/conjuntos-dados/sistema-de-informacao-sobre-nascidos-vivos-sinasc-1996-a-20201
+DO24OPEN.csv   
+Disponível em: https://dados.gov.br/dados/conjuntos-dados/sim-1979-2019  
+
 "The 5 W's of Data Science, also known as the 5 W's of Analytics,  
 are a framework for understanding and approaching data analysis.  
-These questions are: Who, What, When, Where, and Why"  
+These questions are: Who, What, When, Where, and Why"  (Fonte: Google Gemini)
  
 **who?**  
 mulheres gestantes  
@@ -17,8 +23,8 @@ em coparação aos nascidos vivos da população brasileira no ano de 2024 (pesq
 *Recortes:*
 1- por estados
 2- idade da mãe
-3- quantidade de bebe(s) na gestação registrada
-4- quantidade de gestação/filhos anteriores por mãe
+3- quantidade de feto(s) na gestação registrada
+4- quantidade de gestação e filhos anteriores por mãe
 5- índice de Kotelchuck
 6- peso do(s) recém nascido(s)
 
